@@ -1,5 +1,6 @@
 input{font-family:times}
 body{background-image: url("background.jpg"); background-size: cover;text-align: center}
+body{font-family:Bookman,arial}
 h1{
 	font-family:"fulbo-retro.otf",times;color: rgb(255,255,255)
 	}
