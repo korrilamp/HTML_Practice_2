@@ -1,5 +1,5 @@
 input{font-family:times}
-body{background-image: url("background.jpg"); background-size: cover;text-align: center}
+body{background-image: url("background.jpg"); background-size: cover;text-align: center; margin:auto}
 p{font-family:Bookman,arial; color: rgb(56, 43, 43)}
 h1{font-family:Courier New,times;color: rgb(255,255,255)}
 h3{font-family:Bookman,arial;color: rgb(89, 82, 75)}
